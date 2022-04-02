@@ -1,3 +1,5 @@
+import Link from "next/link"
+
 const navigation = [
  // { name: 'About us', href: '/about' },
  // { name: 'Contact', href: '/contact' },
@@ -22,20 +24,22 @@ export default function HeroBanner(props) {
             <nav className="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
               <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                 <div className="flex items-center justify-between w-full md:w-auto">
-                  <a href="/">
-                    <span className="sr-only">{props.data.name}</span>
-                    <img
-                      className="h-8 w-auto sm:h-10"
-                      src={props.data.logoUrl}
-                    />
-                  </a>
+                  <Link href="/">
+                    <a>
+                      <span className="sr-only">{props.data.name}</span>
+                      <img
+                        className="h-8 w-auto sm:h-10"
+                        src={props.data.logoUrl}
+                      />
+                    </a>
+                  </Link>
                 </div>
               </div>
               <div className="xhidden md:block md:ml-10 pr-4 space-x-8">
                 {navigation.map((item) => (
-                  <a key={item.name} href={item.href} className="font-medium text-gray-500 hover:text-gray-900">
+                  <Link key={item.name} href={item.href} className="font-medium text-gray-500 hover:text-gray-900">
                     {item.name}
-                  </a>
+                  </Link>
                 ))}
               </div>
             </nav>
