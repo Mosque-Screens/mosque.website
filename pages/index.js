@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Contact from '../components/Contact'
 import HeroBanner from '../components/HeroBanner'
 import MosqueBrandingCSS from '../components/MoqueBrandingCSS'
 import Team from '../components/Team'
@@ -14,12 +15,13 @@ const data = {
 export default function Home() {
   return (
     <>
-    <Head>
-      <title>{data.name} | Mosque Website</title>
-    </Head>
-    <MosqueBrandingCSS data={data} />
-    <HeroBanner data={data} />
-    <Team data={data} />
+      <Head>
+        <title>{data.name} | Mosque Website</title>
+      </Head>
+      <MosqueBrandingCSS data={data} />
+      <HeroBanner data={data} />
+      <Team data={data} />
+      <Contact data={data} />
     </>
   )
 }
