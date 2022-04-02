@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import HeroBanner from '../components/HeroBanner'
 import MosqueBrandingCSS from '../components/MoqueBrandingCSS'
+import Team from '../components/Team'
 
 const data = {
   name: "East London Mosque",
@@ -18,6 +19,7 @@ export default function Home() {
     </Head>
     <MosqueBrandingCSS data={data} />
     <HeroBanner data={data} />
+    <Team data={data} />
     </>
   )
 }
