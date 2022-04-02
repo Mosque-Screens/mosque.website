@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Contact from '../components/Contact'
 import HeroBanner from '../components/HeroBanner'
 import MosqueBrandingCSS from '../components/MoqueBrandingCSS'
+import PrayerTimes from '../components/PrayerTimes'
 import Team from '../components/Team'
 
 const data = {
@@ -20,6 +21,7 @@ export default function Home() {
       </Head>
       <MosqueBrandingCSS data={data} />
       <HeroBanner data={data} />
+      <PrayerTimes data={data} />
       <Team data={data} />
       <Contact data={data} />
     </>
