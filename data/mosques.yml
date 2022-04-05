@@ -1,5 +1,5 @@
 ---
-www.mosque.website:
+default:
   name: East London Mosque
   description: |
     The East London Mosque, which incorporates the London Muslim Centre and the Maryam Centre, has a rich history, with roots in the London Mosque Fund established in 1910. It has gone on to become one of the most active Islamic institutions in Britain.
@@ -42,7 +42,7 @@ www.mosque.website:
       value: 1122613
     - label: Date Registered
       value: 05 February 2008
-cheac.mosque.website:
+cheacs.mosque.website:
   name: Chadwell Heath Educational and Cultural Society
   about: |
     CHEACS current activities such as religious and social activities on Friday as well as education training, well fit sports & recreation. We are also holding learning sessions for the children, more over advisory sessions for people to be a good character and make good for their future.

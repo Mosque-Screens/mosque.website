@@ -7,9 +7,7 @@ import PrayerTimes from '../components/PrayerTimes'
 import Team from '../components/Team'
 import mosques from '../data/mosques.yml'
 
-const data = mosques["www.mosque.website"]
-
-export default function Home() {
+function Home({ data }) {
   return (
     <>
       <Head>
@@ -24,3 +22,10 @@ export default function Home() {
     </>
   )
 }
+
+Home.getInitialProps = async ({ req }) => {
+  const data = mosques[ req.headers.host ] ?? mosques[ "default" ]
+  return { data: data }
+}
+
+export default Home
