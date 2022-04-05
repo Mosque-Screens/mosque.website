@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import About from '../components/About'
 import Contact from '../components/Contact'
 import HeroBanner from '../components/HeroBanner'
 import MosqueBrandingCSS from '../components/MoqueBrandingCSS'
@@ -24,6 +25,7 @@ export default function Home() {
       <MosqueBrandingCSS data={data} />
       <HeroBanner data={data} />
       <PrayerTimes data={data} />
+      {/* <About data={data} /> */}
       <Team data={data} />
       <Contact data={data} />
     </>
