@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>{data.name} | Mosque Website</title>
+        <title>{data.name} - Mosque Website</title>
       </Head>
       <MosqueBrandingCSS data={data} />
       <HeroBanner data={data} />

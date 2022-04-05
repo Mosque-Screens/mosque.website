@@ -29,3 +29,15 @@ elm.mosque.website:
     - name: Sufia Alam
       role: Head of Programmes & Maryam Centre
       image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=73fb7ccc-8721-4e2c-9371-1e92bb9134cf&w=150&h=210&src=mc
+  contact_address: |
+    	East London Mosque Trust
+      82-92 Whitechapel Road
+      LONDON
+      E1 1JQ
+  charity_information:
+    - label: Charity name
+      value: The East London Mosque Trust
+    - label: Charity registration number
+      value: 1122613
+    - label: Date Registered
+      value: 05 February 2008
