@@ -183,7 +183,7 @@ export default function PrayerTimes(props) {
                       </tr>
                       {timetable[currentMonth].days.map((day, dayIdx) => (
                         <tr
-                          key={timetable[currentMonth].month + day}
+                          key={`${timetable[currentMonth].month}_${dayIdx}`}
                           className={classNames(dayIdx === 0 ? 'border-gray-300' : 'border-gray-200', 'border-t')}
                         >
                           <td className="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
