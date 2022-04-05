@@ -18,8 +18,8 @@ export default function About(props) {
   return (
     <div className="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8">
       <div className="text-lg max-w-7xl mx-auto">
-      <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl">About us</h2>
-        <div>
+        <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl">About us</h2>
+        <div className="mt-6 text-gray-500">
           {props.data.about}
         </div>
       </div>

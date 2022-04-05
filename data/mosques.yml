@@ -1,7 +1,17 @@
+---
 elm.mosque.website:
   name: East London Mosque
   description: |
     The East London Mosque, which incorporates the London Muslim Centre and the Maryam Centre, has a rich history, with roots in the London Mosque Fund established in 1910. It has gone on to become one of the most active Islamic institutions in Britain.
+  about: |
+    The East London Mosque, which incorporates the London Muslim Centre and the Maryam Centre, has a rich history, with roots in the London Mosque Fund established in 1910. It has gone on to become one of the most active Islamic institutions in Britain.
+
+    We offer wide range of services from our complex. In addition to the daily prayers, we have: advice and counselling; education for children and adults; services related to birth, marriage and death; and many more.
+
+    There are a number of ways to contact us, and you can find our address and how to get to us here.
+
+    Serving the community, working in partnership
+    Our partnerships with Tower Hamlets Council, the local Primary Care Trust, The East London Communities Organisation (TELCO), Tower Hamlets Interfaith Forum, the Metropolitan Police and many others have helped contribute towards improvements in education, health provision, environment, and community cohesion.
   branding:
     logo_url: https://www.eastlondonmosque.org.uk/clients/eastlondonmosque/assets/logo@2x.png
     banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
