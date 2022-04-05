@@ -13,7 +13,7 @@ export default function Team(props) {
               <li key={person.name}>
                 <div className="space-y-4 sm:grid sm:grid-cols-3 sm:gap-6 sm:space-y-0 lg:gap-8">
                   <div className="h-0 aspect-w-3 aspect-h-2 sm:aspect-w-3 sm:aspect-h-4">
-                    <img className="object-cover shadow-lg rounded-lg" src={person.image_url} alt="" />
+                    <img className="object-contain md:object-cover shadow-lg rounded-lg" src={person.image_url} alt="" />
                   </div>
                   <div className="sm:col-span-2">
                     <div className="space-y-4">
