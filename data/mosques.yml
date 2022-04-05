@@ -6,3 +6,16 @@ elm.mosque.website:
     logo_url: https://www.eastlondonmosque.org.uk/clients/eastlondonmosque/assets/logo@2x.png
     banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
     primary_color: "#95112d"
+  team:
+    - name: Dilowar Hussain Khan
+      role: Director of Finance & Engagement
+      image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=7419cf68-52e3-41e6-84e7-11cadd6a7f4e&w=150&h=210&src=mc
+    - name: Shaykh Abdul Qayum
+      role: Head Imam
+      image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=aecf4922-e797-44a8-a2ff-0ab6b7cf5bf0&w=150&h=210&src=mc
+    - name: Shaykh Mohammed Mahmoud
+      role: Senior Imam
+      image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=5b421c6e-f311-4f5f-bd10-f5505b828541&w=150&h=210&src=mc
+    - name: Shaykh Mohammed Mahmoud
+      role: Senior Imam
+      image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=5b421c6e-f311-4f5f-bd10-f5505b828541&w=150&h=210&src=mc
