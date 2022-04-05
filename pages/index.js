@@ -7,7 +7,7 @@ import PrayerTimes from '../components/PrayerTimes'
 import Team from '../components/Team'
 import mosques from '../data/mosques.yml'
 
-const data = mosques["elm.mosque.website"]
+const data = mosques["www.mosque.website"]
 
 export default function Home() {
   return (
