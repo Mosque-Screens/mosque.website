@@ -66,6 +66,15 @@ cheacs.mosque.website:
     - name: Abdul Malik
       role: Asset Treasurer
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_5.jpeg
+    - name: Mohammed Monsur Ahmed
+      role: Treasurer
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_6.jpeg
+    - name: Raha Miah
+      role: Member
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_7.jpeg
+    - name: Syed Nuruzzaman
+      role: Member
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_8.jpeg
   contact:
     addresses:
       - Marjorie Collins Centre 237 Grove Road, Chadwell Heath, Romford, Essex, RM6 4XF
