@@ -28,7 +28,7 @@ export default function HeroBanner(props) {
                     <a>
                       <span className="sr-only">{props.data.name}</span>
                       <img
-                        className="h-8 w-auto sm:h-10"
+                        className="h-16 w-auto"
                         src={props.data.branding.logo_url}
                       />
                     </a>
