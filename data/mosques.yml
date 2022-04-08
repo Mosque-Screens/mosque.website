@@ -42,7 +42,7 @@ default:
       value: 1122613
     - label: Date Registered
       value: 05 February 2008
-cheacs.mosque.website:
+cheacs.mosque.website: &cheacs
   name: Chadwell Heath Educational and Cultural Society
   about: |
     CHEACS current activities such as religious and social activities on Friday as well as education training, well fit sports & recreation. We are also holding learning sessions for the children, more over advisory sessions for people to be a good character and make good for their future.
@@ -96,3 +96,7 @@ cheacs.mosque.website:
       value: 1125112
     - label: Date Registered
       value: 22 July 2008
+cheacs.com:
+  <<: *cheacs
+www.cheacs.com:
+  <<: *cheacs
