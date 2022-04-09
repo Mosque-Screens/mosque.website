@@ -50,20 +50,20 @@ cheacs.mosque.website: &cheacs
     - title: Marjorie Collins Centre
       body: |
         Winter Jummah times
-        - 12:30pm
-        - 1:00pm
+        - 12:30 pm
+        - 1:00 pm
 
         Summer Jummah times
-        - 1:30pm
-        - 2:15pm
+        - 1:30 pm
+        - 2:15 pm
 
     - title: Kieth Axon Centre library
       body: |
         Winter Jummah times
-        - 1:30pm
+        - 1:30 pm
 
         Summer Jummah times
-        - 1:50pm
+        - 1:50 pm
 
   branding:
     logo_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo.png
