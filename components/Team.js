@@ -1,7 +1,7 @@
 export default function Team(props) {
   return (
     <div className="bg-white">
-      <div className="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8 lg:py-24">
+      <div className="mx-auto pt-5 pb-10 px-4 max-w-7xl sm:px-6 lg:px-8">
         <div className="space-y-12">
           <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl">Meet our team</h2>
 

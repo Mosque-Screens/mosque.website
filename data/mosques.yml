@@ -46,6 +46,25 @@ cheacs.mosque.website: &cheacs
   name: Chadwell Heath Educational and Cultural Society
   about: |
     CHEACS current activities such as religious and social activities on Friday as well as education training, well fit sports & recreation. We are also holding learning sessions for the children, more over advisory sessions for people to be a good character and make good for their future.
+  content_sections:
+    - title: Marjorie Collins Centre
+      body: |
+        Winter Jummah times
+        - 12:30pm
+        - 1:00pm
+
+        Summer Jummah times
+        - 1:30pm
+        - 2:15pm
+
+    - title: Kieth Axon Centre library
+      body: |
+        Winter Jummah times
+        - 1:30pm
+
+        Summer Jummah times
+        - 1:50pm
+
   branding:
     logo_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo.png
     banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
@@ -102,4 +121,6 @@ cheacs.mosque.website: &cheacs
 cheacs.com:
   <<: *cheacs
 www.cheacs.com:
+  <<: *cheacs
+localhost:3000:
   <<: *cheacs

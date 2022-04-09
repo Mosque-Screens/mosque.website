@@ -5,3 +5,7 @@
 .markdown p {
   @apply mb-4;
 }
+
+.markdown ul {
+  @apply list-inside list-disc mb-4;
+}
