@@ -94,6 +94,12 @@ cheacs.mosque.website: &cheacs
     - name: Shaukathusain Hafeji
       role: Member
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_9.jpeg
+    - name: Arakoth Chowdhury
+      role: Member
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_10.jpeg
+    - name: Helal Chowdhury
+      role: Member
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_11.jpeg
   contact:
     addresses:
       - Marjorie Collins Centre 237 Grove Road, Chadwell Heath, Romford, Essex, RM6 4XF

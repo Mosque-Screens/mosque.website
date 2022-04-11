@@ -16,7 +16,7 @@ function Home({ data }) {
       </Head>
       <MosqueBrandingCSS data={data} />
       <HeroBanner data={data} />
-      {/* <PrayerTimes data={data} /> */}
+      <PrayerTimes data={data} />
       <About data={data} />
       <ContentSection data={data} />
       <Team data={data} />
