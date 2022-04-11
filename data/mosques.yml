@@ -83,9 +83,9 @@ cheacs.mosque.website: &cheacs
       role: Assistant Secretary
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_4.jpeg
     - name: Abdul Malik
-      role: Asset Treasurer
+      role: Assistant Treasurer
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_5.jpeg
-    - name: Raha Miah
+    - name: Rahat Miah
       role: Member
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_7.jpeg
     - name: Syed Nuruzzaman
