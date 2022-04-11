@@ -76,18 +76,15 @@ cheacs.mosque.website: &cheacs
     - name: Aktar Ali Chowdhury
       role: Secretary
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_2.jpeg
-    - name: Md. Monsur Ahmed
+    - name: Mohammed Monsur Ahmed
       role: Treasurer
-      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_3.jpeg
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_6.jpeg
     - name: Ashuque Ahmed
       role: Assistant Secretary
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_4.jpeg
     - name: Abdul Malik
       role: Asset Treasurer
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_5.jpeg
-    - name: Mohammed Monsur Ahmed
-      role: Treasurer
-      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_6.jpeg
     - name: Raha Miah
       role: Member
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_7.jpeg
