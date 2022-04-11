@@ -121,8 +121,8 @@ cheacs.mosque.website: &cheacs
       value: 1125112
     - label: Date Registered
       value: 22 July 2008
-    - label: Year Established
-      value: Established in 2005
+    - label: Established in
+      value: 2005
 cheacs.com:
   <<: *cheacs
 www.cheacs.com:
