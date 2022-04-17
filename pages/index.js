@@ -13,6 +13,7 @@ function Home({ data }) {
     <>
       <Head>
         <title>{data.name} - Mosque Website</title>
+        <link rel="icon" href={data.branding.favicon_url} />
       </Head>
       <MosqueBrandingCSS data={data} />
       <HeroBanner data={data} />
@@ -22,7 +23,7 @@ function Home({ data }) {
       <Team data={data} />
       <Contact data={data} />
     </>
-  )
+  );
 }
 
 Home.getInitialProps = async ({ req }) => {

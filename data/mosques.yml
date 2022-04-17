@@ -15,6 +15,7 @@ default:
   branding:
     logo_url: https://www.eastlondonmosque.org.uk/clients/eastlondonmosque/assets/logo@2x.png
     banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
+    favicon_url: https://www.eastlondonmosque.org.uk/clients/eastlondonmosque/assets/footer-logo-motif.png
     primary_color: "#95112d"
   team:
     - name: Dilowar Hussain Khan
@@ -68,6 +69,7 @@ cheacs.mosque.website: &cheacs
   branding:
     logo_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo.png
     banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
+    favicon_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo.png
     primary_color: "#00bcf2"
   team:
     - name: Malik Chowdhury-Nanu
