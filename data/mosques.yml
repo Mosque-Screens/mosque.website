@@ -32,7 +32,7 @@ default:
       image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=73fb7ccc-8721-4e2c-9371-1e92bb9134cf&w=150&h=210&src=mc
   contact:
     addresses:
-    	- East London Mosque Trust, 82-92 Whitechapel Road, LONDON, E1 1JQ
+      - East London Mosque Trust, 82-92 Whitechapel Road, LONDON, E1 1JQ
     phone_numbers:
       - name: Reception
         number: "020 7650 3000"
