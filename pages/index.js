@@ -28,7 +28,7 @@ function Home({ data }) {
 			<ContentSection data={data} />
 			<Team data={data} />
 			<Contact data={data} />
-			<GoTop topRef={refGoTop} />
+			<GoTop topRef={refGoTop} data={data} />
 		</>
 	);
 }

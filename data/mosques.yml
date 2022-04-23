@@ -1,133 +1,133 @@
 ---
 default:
-   name: East London Mosque
-   description: |
-      The East London Mosque, which incorporates the London Muslim Centre and the Maryam Centre, has a rich history, with roots in the London Mosque Fund established in 1910. It has gone on to become one of the most active Islamic institutions in Britain.
-   about: |
-      The East London Mosque, which incorporates the London Muslim Centre and the Maryam Centre, has a rich history, with roots in the London Mosque Fund established in 1910. It has gone on to become one of the most active Islamic institutions in Britain.
+  name: East London Mosque
+  description: |
+    The East London Mosque, which incorporates the London Muslim Centre and the Maryam Centre, has a rich history, with roots in the London Mosque Fund established in 1910. It has gone on to become one of the most active Islamic institutions in Britain.
+  about: |
+    The East London Mosque, which incorporates the London Muslim Centre and the Maryam Centre, has a rich history, with roots in the London Mosque Fund established in 1910. It has gone on to become one of the most active Islamic institutions in Britain.
 
-      We offer wide range of services from our complex. In addition to the daily prayers, we have: advice and counselling; education for children and adults; services related to birth, marriage and death; and many more.
+    We offer wide range of services from our complex. In addition to the daily prayers, we have: advice and counselling; education for children and adults; services related to birth, marriage and death; and many more.
 
-      There are a number of ways to contact us, and you can find our address and how to get to us here.
+    There are a number of ways to contact us, and you can find our address and how to get to us here.
 
-      Serving the community, working in partnership
-      Our partnerships with Tower Hamlets Council, the local Primary Care Trust, The East London Communities Organisation (TELCO), Tower Hamlets Interfaith Forum, the Metropolitan Police and many others have helped contribute towards improvements in education, health provision, environment, and community cohesion.
-   branding:
-      logo_url: https://www.eastlondonmosque.org.uk/clients/eastlondonmosque/assets/logo@2x.png
-      banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
-      favicon_url: https://www.eastlondonmosque.org.uk/clients/eastlondonmosque/assets/footer-logo-motif.png
-      primary_color: '#95112d'
-   team:
-      - name: Dilowar Hussain Khan
-        role: Director of Finance & Engagement
-        image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=7419cf68-52e3-41e6-84e7-11cadd6a7f4e&w=150&h=210&src=mc
-      - name: Shaykh Abdul Qayum
-        role: Head Imam
-        image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=aecf4922-e797-44a8-a2ff-0ab6b7cf5bf0&w=150&h=210&src=mc
-      - name: Shaykh Mohammed Mahmoud
-        role: Senior Imam
-        image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=5b421c6e-f311-4f5f-bd10-f5505b828541&w=150&h=210&src=mc
-      - name: Sufia Alam
-        role: Head of Programmes & Maryam Centre
-        image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=73fb7ccc-8721-4e2c-9371-1e92bb9134cf&w=150&h=210&src=mc
-   contact:
-      addresses:
-         - East London Mosque Trust, 82-92 Whitechapel Road, LONDON, E1 1JQ
-      phone_numbers:
-         - name: Reception
-           number: '020 7650 3000'
-   charity_information:
-      - label: Charity name
-        value: The East London Mosque Trust
-      - label: Charity registration number
-        value: 1122613
-      - label: Date Registered
-        value: 05 February 2008
+    Serving the community, working in partnership
+    Our partnerships with Tower Hamlets Council, the local Primary Care Trust, The East London Communities Organisation (TELCO), Tower Hamlets Interfaith Forum, the Metropolitan Police and many others have helped contribute towards improvements in education, health provision, environment, and community cohesion.
+  branding:
+    logo_url: https://www.eastlondonmosque.org.uk/clients/eastlondonmosque/assets/logo@2x.png
+    banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
+    favicon_url: https://www.eastlondonmosque.org.uk/clients/eastlondonmosque/assets/footer-logo-motif.png
+    primary_color: "#95112d"
+  team:
+    - name: Dilowar Hussain Khan
+      role: Director of Finance & Engagement
+      image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=7419cf68-52e3-41e6-84e7-11cadd6a7f4e&w=150&h=210&src=mc
+    - name: Shaykh Abdul Qayum
+      role: Head Imam
+      image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=aecf4922-e797-44a8-a2ff-0ab6b7cf5bf0&w=150&h=210&src=mc
+    - name: Shaykh Mohammed Mahmoud
+      role: Senior Imam
+      image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=5b421c6e-f311-4f5f-bd10-f5505b828541&w=150&h=210&src=mc
+    - name: Sufia Alam
+      role: Head of Programmes & Maryam Centre
+      image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=73fb7ccc-8721-4e2c-9371-1e92bb9134cf&w=150&h=210&src=mc
+  contact:
+    addresses:
+      - East London Mosque Trust, 82-92 Whitechapel Road, LONDON, E1 1JQ
+    phone_numbers:
+      - name: Reception
+        number: "020 7650 3000"
+  charity_information:
+    - label: Charity name
+      value: The East London Mosque Trust
+    - label: Charity registration number
+      value: 1122613
+    - label: Date Registered
+      value: 05 February 2008
 cheacs.mosque.website: &cheacs
-   name: Chadwell Heath Educational and Cultural Society
-   about: |
-      CHEACS current activities such as religious and social activities on Friday as well as education training, well fit sports & recreation. We are also holding learning sessions for the children, more over advisory sessions for people to be a good character and make good for their future.
-   content_sections:
-      - title: Marjorie Collins Centre
-        body: |
-           Winter Jummah times
-           - 12:30 pm
-           - 1:00 pm
+  name: Chadwell Heath Educational and Cultural Society
+  about: |
+    CHEACS current activities such as religious and social activities on Friday as well as education training, well fit sports & recreation. We are also holding learning sessions for the children, more over advisory sessions for people to be a good character and make good for their future.
+  content_sections:
+    - title: Marjorie Collins Centre
+      body: |
+        Winter Jummah times
+        - 12:30 pm
+        - 1:00 pm
 
-           Summer Jummah times
-           - 1:30 pm
-           - 2:15 pm
+        Summer Jummah times
+        - 1:30 pm
+        - 2:15 pm
 
-      - title: Kieth Axon Centre library
-        body: |
-           Winter Jummah times
-           - 1:30 pm
+    - title: Kieth Axon Centre library
+      body: |
+        Winter Jummah times
+        - 1:30 pm
 
-           Summer Jummah times
-           - 1:50 pm
+        Summer Jummah times
+        - 1:50 pm
 
-   branding:
-      logo_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo.png
-      banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
-      favicon_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo.png
-      primary_color: '#00bcf2'
-   team:
-      - name: Malik Chowdhury-Nanu
-        role: Chairperson
-        image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_1.jpeg
-      - name: Aktar Ali Chowdhury
-        role: Secretary
-        image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_2.jpeg
-      - name: Mohammed Monsur Ahmed
-        role: Treasurer
-        image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_6.jpeg
-      - name: Ashuque Ahmed
-        role: Assistant Secretary
-        image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_4.jpeg
-      - name: Abdul Malik
-        role: Assistant Treasurer
-        image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_5.jpeg
-      - name: Rahat Miah
-        role: Member
-        image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_7.jpeg
-      - name: Syed Nuruzzaman
-        role: Member
-        image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_8.jpeg
-      - name: Shaukathusain Hafeji
-        role: Member
-        image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_9.jpeg
-      - name: Arakoth Chowdhury
-        role: Member
-        image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_10.jpeg
-      - name: Helal Chowdhury
-        role: Member
-        image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_11.jpeg
-   contact:
-      addresses:
-         - Marjorie Collins Centre 237 Grove Road, Chadwell Heath, Romford, Essex, RM6 4XF
-         - Kieth Axon Centre library, 160-170 Grove Road, Chadwell Heath, RM6 4XB
-      phone_numbers:
-         - name: Chairperson
-           number: '07957573480'
-         - name: Secretary
-           number: '07773328317'
-         - name: Treasurer
-           number: '07714420576'
-      email_addresses:
-         - name: General email
-           address: cheacs786@gmail.com
-   charity_information:
-      - label: Charity name
-        value: Chadwell Heath Educational and Cultural Society
-      - label: Charity registration number
-        value: 1125112
-      - label: Date Registered
-        value: 22 July 2008
-      - label: Established in
-        value: 2005
+  branding:
+    logo_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo.png
+    banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
+    favicon_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo.png
+    primary_color: "#00bcf2"
+  team:
+    - name: Malik Chowdhury-Nanu
+      role: Chairperson
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_1.jpeg
+    - name: Aktar Ali Chowdhury
+      role: Secretary
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_2.jpeg
+    - name: Mohammed Monsur Ahmed
+      role: Treasurer
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_6.jpeg
+    - name: Ashuque Ahmed
+      role: Assistant Secretary
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_4.jpeg
+    - name: Abdul Malik
+      role: Assistant Treasurer
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_5.jpeg
+    - name: Rahat Miah
+      role: Member
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_7.jpeg
+    - name: Syed Nuruzzaman
+      role: Member
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_8.jpeg
+    - name: Shaukathusain Hafeji
+      role: Member
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_9.jpeg
+    - name: Arakoth Chowdhury
+      role: Member
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_10.jpeg
+    - name: Helal Chowdhury
+      role: Member
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_11.jpeg
+  contact:
+    addresses:
+      - Marjorie Collins Centre 237 Grove Road, Chadwell Heath, Romford, Essex, RM6 4XF
+      - Kieth Axon Centre library, 160-170 Grove Road, Chadwell Heath, RM6 4XB
+    phone_numbers:
+      - name: Chairperson
+        number: "07957573480"
+      - name: Secretary
+        number: "07773328317"
+      - name: Treasurer
+        number: "07714420576"
+    email_addresses:
+      - name: General email
+        address: cheacs786@gmail.com
+  charity_information:
+    - label: Charity name
+      value: Chadwell Heath Educational and Cultural Society
+    - label: Charity registration number
+      value: 1125112
+    - label: Date Registered
+      value: 22 July 2008
+    - label: Established in
+      value: 2005
 cheacs.com:
-   <<: *cheacs
+  <<: *cheacs
 www.cheacs.com:
-   <<: *cheacs
+  <<: *cheacs
 localhost:3000:
-   # <<: *cheacs
+  <<: *cheacs
