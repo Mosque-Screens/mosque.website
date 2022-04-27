@@ -109,7 +109,7 @@ export default function PrayerTimes(props) {
   const [currentMonth, setMonth] = useState(new Date().getMonth())
 
   return (<>
-    {props.data.prayer_times && (<div className="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8 lg:py-24">
+    {props.data.prayer_times && (<div id="prayertimes" className="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8 lg:py-24">
       <div className="sm:flex sm:items-center">
         <div className="sm:flex-auto">
           <h1 className="text-xl font-semibold text-gray-900">Prayer Timetable</h1>
