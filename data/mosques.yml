@@ -55,8 +55,14 @@ eastlondon.mosque.website:
   <<: *elm
 cheacs.mosque.website: &cheacs
   name: Chadwell Heath Educational and Cultural Society
+  description: |
+    CHEACS is local charity that runs religious and social activities as well as education training, well fit sports & recreation. We also hold learning sessions for the children, advisory sessions for the local community.
   about: |
-    CHEACS current activities such as religious and social activities on Friday as well as education training, well fit sports & recreation. We are also holding learning sessions for the children, more over advisory sessions for people to be a good character and make good for their future.
+    Chadwell Heath Educational and Cultural Society (CHEACS), we are a local registered charity established in 2005 (registration number 1125112) providing religious, educational and social activities for the local community such as sports and recreational activities, educational sessions for children, language classes and events for senior citizens.
+
+    Every six months we hold community events with the wider community and provide food for attendees once a month. Our organisation also provides advice surgeries once a week to set an example as great role models, to be of a good character and integrate into the local community.
+
+    We have been serving the local community for the last seventeen years and have grown from strength to strength. The site Grove Social Club is located at 50 Grove Road, Romford, RM6 4AQ this facility would be a great local base for us to serve the needs of the residents.
   content_sections:
     - title: Marjorie Collins Centre
       body: |
@@ -139,7 +145,7 @@ cheacs.mosque.website: &cheacs
       **Sort code:** 56-00-47
 
       **Account number:** 38600935
-    link_label: Donate via JustGiving
+    link_label: Donate now
     link: https://www.justgiving.com/crowdfunding/cheacs
   charity_information:
     - label: Charity name
@@ -155,4 +161,4 @@ cheacs.com:
 www.cheacs.com:
   <<: *cheacs
 localhost:3000:
-  <<: *elm
+  <<: *cheacs
