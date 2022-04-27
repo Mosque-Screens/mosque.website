@@ -17,7 +17,7 @@ function Donate(props) {
           className="h-16 w-auto mx-auto"
           src={props.data.branding.logo_url}
         />
-        <h1 class="mx-auto w-auto text-lg text-center my-5">Redirecting you to the donation page...</h1>
+        <h1 className="mx-auto w-auto text-lg text-center my-5">Redirecting you to the donation page...</h1>
       </div>
     </>
   );
