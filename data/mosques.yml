@@ -29,6 +29,13 @@ default:
     - name: Sufia Alam
       role: Head of Programmes & Maryam Centre
       image_url: https://www.eastlondonmosque.org.uk/GetImage.aspx?IDMF=73fb7ccc-8721-4e2c-9371-1e92bb9134cf&w=150&h=210&src=mc
+  donation:
+    title: Donate to the mosque
+    subtitle: Help build and maintain the mosque
+    description: |
+      Your contribution will help us to maintain and develop the wide range of services we offer. Prophet Muhammad ﷺ said: “Allah said: ‘Spend, O son of Adam, and I shall spend on you.’”.
+    link_label: Donate now
+    link: https://www.eastlondonmosque.org.uk/donate/donate-now
   contact:
     addresses:
     	- East London Mosque Trust, 82-92 Whitechapel Road, LONDON, E1 1JQ
@@ -64,7 +71,6 @@ cheacs.mosque.website: &cheacs
 
         Summer Jummah times
         - 1:50 pm
-
   branding:
     logo_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo.png
     banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
