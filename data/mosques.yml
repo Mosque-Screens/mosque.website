@@ -170,7 +170,7 @@ rainham.mosque.website: &rainham
   about: |
     Rainham currently doesn't have an official place of worship. There are, however, multiple locations which are hired out for the community to pray Friday Jummah prayer. This page will help bring the times and locations together in one place.
 
-    Please note that the maintainers of the site will try their best to keep the information up to date as possible. If you notice any incorrect information, please raise a change request on our [Github repo](https://github.com/Mosque-Screens/mosque.website).
+    Please note that the maintainers of the site will try their best to keep the information up to date. If you notice any incorrect information, please raise a change request on our [Github repo](https://github.com/Mosque-Screens/mosque.website).
   content_sections:
     - title: Royals Youth Centre (Opposite Tesco)
       body: |
