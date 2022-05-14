@@ -3,6 +3,7 @@ import About from '../components/About'
 import Contact from '../components/Contact'
 import ContentSection from '../components/ContentSection'
 import DonationSection from '../components/DonationSection'
+import GoogleAnalytics from '../components/GoogleAnalytics'
 import HeroBanner from '../components/HeroBanner'
 import MosqueBrandingCSS from '../components/MoqueBrandingCSS'
 import PrayerTimes from '../components/PrayerTimes'
@@ -14,6 +15,7 @@ function Home({ data }) {
     <>
       <Head>
         <title>{data.name} - Mosque Website</title>
+        <GoogleAnalytics />
       </Head>
       <MosqueBrandingCSS data={data} />
       <HeroBanner data={data} />
