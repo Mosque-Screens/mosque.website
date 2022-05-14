@@ -164,5 +164,41 @@ cheacs.com:
   <<: *cheacs
 www.cheacs.com:
   <<: *cheacs
+rainham.mosque.website: &rainham
+  name: Rainham Muslim Community
+  description:
+  about: |
+    Rainham currently doesn't have an official place of worship. There are, however, multiple locations which are hired out for the community to pray Friday Jummah prayer. This page will help bring the times and locations together in one place.
+
+    Please note that the maintainers of the site will try their best to keep the information up to date as possible. If you notice any incorrect information, please raise a change request on our [Github repo](https://github.com/Mosque-Screens/mosque.website).
+  content_sections:
+    - title: Royals Youth Centre (Opposite Tesco)
+      body: |
+        Royal Youth Centre, Viking Way, Rainham RM13 9YG
+
+        ### Jummah times
+        1. 12:40pm - 1:20pm
+        1. 1:25pm - 1:50pm
+
+        ### Notes from management
+        1. Covid restrictions apply
+        1. Everyone attending must wear face mask
+        1. Do your ablution before coming to the mosque
+        1. if you have a temperature or cough please do not come
+        1. Women's prayer 2nd Prayer only
+    - title: Mardyke Community Centre
+      body: |
+        Mardyke Community Centre, South St, Rainham RM13 8PJ
+
+        ### Jummah times
+        1. Khutbah starts at 1.30pm
+
+        ### Notes from management
+        1. Please arrive promptly
+        1. Please come with wudhu
+        1. Prayer facilities for brothers only
+  branding:
+    banner_image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rainham_%28Essex%29_station_signage.JPG/1200px-Rainham_%28Essex%29_station_signage.JPG
+    primary_color: "#11846d"
 localhost:3000:
-  <<: *cheacs
+  <<: *rainham
