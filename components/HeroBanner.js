@@ -21,14 +21,14 @@ export default function HeroBanner(props) {
           </svg>
 
           <div className="relative pt-6 px-4 sm:px-6 lg:px-8">
-            <nav className="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
+            <nav className="relative flex items-center justify-between sm:h-24 lg:justify-start" aria-label="Global">
               <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                 <div className="flex items-center justify-between w-full md:w-auto">
                   <Link href="/">
                     <a>
                       <span className="sr-only">{props.data.name}</span>
                       <img
-                        className="h-16 w-auto"
+                        className={`${props.data.branding.larger_logo ? "h-32" : "h-16"} w-auto`}
                         src={props.data.branding.logo_url}
                       />
                     </a>
@@ -70,7 +70,7 @@ export default function HeroBanner(props) {
       </div>
       <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
         <img
-          className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
+          className="w-full object-cover h-96 lg:w-full lg:h-full"
           src={props.data.branding.banner_image_url}
           alt=""
         />

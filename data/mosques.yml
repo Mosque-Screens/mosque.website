@@ -62,7 +62,7 @@ cheacs.mosque.website: &cheacs
 
     Every six months we hold community events with the wider community and provide food for attendees once a month. Our organisation also provides advice surgeries once a week to set an example as great role models, to be of a good character and integrate into the local community.
 
-    We have been serving the local community for the last seventeen years and have grown from strength to strength. The site Grove Social Club is located at 50 Grove Road, Romford, RM6 4AQ this facility would be a great local base for us to serve the needs of the residents.
+    We have been serving the local community for the last seventeen years and have grown from strength to strength.
   content_sections:
     - title: Marjorie Collins Centre
       body: |
@@ -86,9 +86,10 @@ cheacs.mosque.website: &cheacs
         Summer Jummah times
         - 1:50 pm
   branding:
-    logo_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo.png
-    banner_image_url: https://images.unsplash.com/photo-1551041777-ed277b8dd348?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
-    primary_color: "#00bcf2"
+    logo_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo-new2.png
+    banner_image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/grove-social-club.jpeg
+    primary_color: "#CEB97A"
+    larger_logo: true
   team:
     - name: Malik Chowdhury-Nanu
       role: Chairperson
@@ -122,15 +123,14 @@ cheacs.mosque.website: &cheacs
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_10.jpeg
   contact:
     addresses:
-      - Marjorie Collins Centre 237 Grove Road, Chadwell Heath, Romford, Essex, RM6 4XF
-      - Kieth Axon Centre library, 160-170 Grove Road, Chadwell Heath, RM6 4XB
+      - 50 Grove Road, Romford, Essex, RM6 4AQ
     phone_numbers:
       - name: Chairperson
         number: "07957573480"
       - name: Secretary
         number: "07773328317"
       - name: Treasurer
-        number: "07714420576"
+        number: "07714420575"
     email_addresses:
       - name: General email
         address: cheacs786@gmail.com
