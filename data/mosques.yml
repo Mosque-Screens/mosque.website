@@ -121,6 +121,9 @@ cheacs.mosque.website: &cheacs
     - name: Arakoth Chowdhury
       role: Member
       image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_10.jpeg
+    - name: Abdur Rob
+      role: Member
+      image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs_trustee_12.jpeg
   contact:
     addresses:
       - 50 Grove Road, Romford, Essex, RM6 4AQ
@@ -238,4 +241,4 @@ rainham.mosque.website: &rainham
     banner_image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rainham_%28Essex%29_station_signage.JPG/1200px-Rainham_%28Essex%29_station_signage.JPG
     primary_color: "#11846d"
 localhost:3000:
-  <<: *rainham
+  <<: *cheacs
