@@ -63,6 +63,8 @@ cheacs.mosque.website: &cheacs
     Every six months we hold community events with the wider community and provide food for attendees once a month. Our organisation also provides advice surgeries once a week to set an example as great role models, to be of a good character and integrate into the local community.
 
     We have been serving the local community for the last seventeen years and have grown from strength to strength.
+
+    We are based at Grove Social Club, 50 Grove Road, Romford, Essex, RM6 4AQ
   content_sections:
     - title: Marjorie Collins Centre
       body: |
@@ -138,8 +140,8 @@ cheacs.mosque.website: &cheacs
       - name: General email
         address: cheacs786@gmail.com
   donation:
-    title: Donate to the mosque
-    subtitle: Help build and maintain the mosque
+    title: Donations
+    subtitle: Help build and maintain the society
     description: |
       Your contribution will help us to maintain and develop the wide range of services we offer. Prophet Muhammad ﷺ said: “Allah said: ‘Spend, O son of Adam, and I shall spend on you.’”.
 
