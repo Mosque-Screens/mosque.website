@@ -8,7 +8,7 @@ function Donate(props) {
     <>
       <Head>
         <title>Donate to {props.data.name}</title>
-        {props.data.donation && (<meta httpEquiv="refreshxxx" content={`0;url=${props.data.donation.link}`} />)}
+        {props.data.donation && (<meta httpEquiv="refresh" content={`0;url=${props.data.donation.link}`} />)}
       </Head>
       <div className="mx-auto py-10 px-4 max-w-7xl sm:px-6 lg:px-8 text-center">
         <img
