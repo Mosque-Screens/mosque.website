@@ -72,11 +72,9 @@ cheacs.mosque.website: &cheacs
 
         Winter Jummah times
         - 12:30 pm
-        - 1:00 pm
 
         Summer Jummah times
         - 1:30 pm
-        - 2:15 pm
 
     - title: Kieth Axon Centre library
       body: |
@@ -144,6 +142,10 @@ cheacs.mosque.website: &cheacs
     subtitle: Help build and maintain the society
     description: |
       Your contribution will help us to maintain and develop the wide range of services we offer. Prophet Muhammad ﷺ said: “Allah said: ‘Spend, O son of Adam, and I shall spend on you.’”.
+
+      All donations must be made in GBP (Pound Sterling).
+      
+      **PLEASE NOTE: All donations are non-refundable. Please speak to a member of the team if you would like further clarification before making a donation.**
 
       For Qarz-e-hasana and any donations higher than a £1000, please transfer directly to our account:
 
