@@ -13,7 +13,7 @@ export default function Team(props) {
           >
             {props.data.team.map((person) => (
               <li key={person.name}>
-                <div className="space-y-4 sm:grid sm:grid-cols-3 sm:gap-6 sm:space-y-0 lg:hover:bg-slate-100 lg:hover:shadow-lg lg:gap-8 lg:p-2 rounded-lg">
+                <div className="space-y-4 sm:grid sm:grid-cols-3 sm:gap-6 sm:space-y-0 bg-slate-100 lg:gap-8 lg:p-2 rounded-lg">
                   <div className="h-0 aspect-w-3 aspect-h-2 sm:aspect-w-3 sm:aspect-h-4">
                     <img
                       className="object-contain lg:object-cover shadow-lg rounded-lg"
