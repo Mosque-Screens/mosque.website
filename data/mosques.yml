@@ -1,5 +1,5 @@
 ---
-default: &elm
+elm: &elm
   name: East London Mosque
   description: |
     The East London Mosque, which incorporates the London Muslim Centre and the Maryam Centre, has a rich history, with roots in the London Mosque Fund established in 1910. It has gone on to become one of the most active Islamic institutions in Britain.
@@ -261,5 +261,7 @@ rainham.mosque.website: &rainham
   branding:
     banner_image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rainham_%28Essex%29_station_signage.JPG/1200px-Rainham_%28Essex%29_station_signage.JPG
     primary_color: "#11846d"
+default:
+  <<: *cheacs
 localhost:3000:
   <<: *cheacs
