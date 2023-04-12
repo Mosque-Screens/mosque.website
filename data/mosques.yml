@@ -87,7 +87,7 @@ cheacs.mosque.website: &cheacs
         - 1:50 pm
     - title: Help Build a Place of Worship and Community Centre for Chadwell Heath
       body: |
-        We are currently in the process of building Grove Community Centre and stage one is the construction of a wudu area and the purchase of prayer carpet. 
+        We are currently in the process of building Grove Community Centre and stage one is the construction of a wudu area and the purchase of prayer carpet.
 
         By donating to this cause, you will be contributing towards the construction and maintenance of a Masjid that will serve as a sacred space for Muslims to gather, pray, and connect with each other and Allah.
 
@@ -96,11 +96,12 @@ cheacs.mosque.website: &cheacs
         - A pray mat unit = £150.00
         - A unit of the wudu area = £150.00
 
-        We only need 333 members of our community to donate £150.00 to achieve our target or 166 people to donate £300. 
+        We only need 333 members of our community to donate £150.00 to achieve our target or 166 people to donate £300.
 
         We appreciate that with the high cost of living it is tough for some people. That’s why we encourage those that can afford it to donate more and those who can’t to contribute what they can.
-
-        <a href="https://site.plegit.co.uk/FundraiserView.aspx?unid=0719c860-8ab5-4c63-9289-271d1496a13e&ngid=638168672306898308"class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white mosque-website__cta-button--brand opacity-90 hover:opacity-100">Donate now</a>
+      action_button:
+        link: https://site.plegit.co.uk/FundraiserView.aspx?unid=0719c860-8ab5-4c63-9289-271d1496a13e&ngid=638168672306898308
+        label: Donate now
   branding:
     logo_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo-new2.png
     banner_image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/grove-social-club.jpeg

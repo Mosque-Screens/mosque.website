@@ -11,6 +11,16 @@ export default function ContentSection(props) {
               {section.body}
             </ReactMarkdown>
           </div>
+          {section.action_button && <div className="mt-8 flex">
+            <div className="inline-flex rounded-md shadow">
+              <a
+                href={section.action_button.link}
+                className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white mosque-website__cta-button--brand opacity-90 hover:opacity-100"
+              >
+                {section.action_button.label}
+              </a>
+            </div>
+          </div>}
         </div>
       </div>
     ))}
