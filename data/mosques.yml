@@ -100,7 +100,7 @@ cheacs.mosque.website: &cheacs
 
         We appreciate that with the high cost of living it is tough for some people. That’s why we encourage those that can afford it to donate more and those who can’t to contribute what they can.
 
-        [Donate now](https://site.plegit.co.uk/FundraiserView.aspx?unid=0719c860-8ab5-4c63-9289-271d1496a13e&ngid=638168672306898308)
+        <a href="https://site.plegit.co.uk/FundraiserView.aspx?unid=0719c860-8ab5-4c63-9289-271d1496a13e&ngid=638168672306898308"class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white mosque-website__cta-button--brand opacity-90 hover:opacity-100">Donate now</a>
   branding:
     logo_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/cheacs-logo-new2.png
     banner_image_url: https://github.com/Mosque-Screens/mosque-logos/raw/master/grove-social-club.jpeg
